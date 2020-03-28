@@ -1,0 +1,15 @@
+{
+  "articles": [{
+      "title": "Wow, Item 1"
+    },
+    {
+      "title": "Wow, Item 2"
+    },
+    {
+      "title": "Wow, Item 3"
+    },
+    {
+      "title": "Wow, Item 4"
+    }
+  ]
+}
